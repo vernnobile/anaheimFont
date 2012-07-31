@@ -1,43 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eacute" format="1">
-  <advance width="971"/>
+  <advance width="996"/>
   <unicode hex="00E9"/>
   <outline>
-    <contour>
-      <point x="334" y="1159" type="line"/>
-      <point x="358" y="1107" type="line"/>
-      <point x="743" y="1258" type="line"/>
-      <point x="693" y="1372" type="line"/>
-    </contour>
+    <component base="acute" xOffset="354.5" yOffset="105"/>
     <component base="e"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>eacute</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>971</integer>
-        </dict>
-      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>b</key>
+    <key>name</key>
+      <string>eacute</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>971</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

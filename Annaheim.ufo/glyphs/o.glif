@@ -34,50 +34,73 @@
   </outline>
   <lib>
     <dict>
-      <key>anchors</key>
-      <array>
-      </array>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-      </array>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>o</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1016</integer>
-        </dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-16</integer>
+	    <key>width</key>	    <integer>107</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>893</integer>
+	    <key>width</key>	    <integer>107</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>124</integer>
+	    <key>width</key>
+	    <integer>128</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>764</integer>
+	    <key>width</key>
+	    <integer>128</integer>
+	  </dict>
+	</array>
       </dict>
-      <key>components</key>
-      <array>
-      </array>
-      <key>contours</key>
-      <array>
-      </array>
-      <key>name</key>
+    <key>name</key>
       <string>o</string>
-      <key>unicodes</key>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>b</key>
+    <key>name</key>
+      <string>o</string>
+    <key>lib</key>
+    <key>unicodes</key>
       <array>
       </array>
-      <key>width</key>
+    <key>width</key>
+      <integer>1016</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
       <integer>1017</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+    <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>
