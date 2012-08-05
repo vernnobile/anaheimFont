@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="1">
-  <advance width="971"/>
+  <advance width="929"/>
   <unicode hex="0045"/>
   <outline>
     <contour>
@@ -17,28 +17,21 @@
       <point x="778" y="745" type="line"/>
       <point x="778" y="649" type="line"/>
     </contour>
+    <contour>
+      <point x="486" y="1284" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="486" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="874" y="10" type="move" name="ogonek"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    <key>b</key>
-    <key>name</key>
-      <string>E</string>
-    <key>lib</key>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>971</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

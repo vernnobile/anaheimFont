@@ -1,120 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="1">
-  <advance width="700"/>
+  <advance width="695"/>
   <unicode hex="006C"/>
   <outline>
     <contour>
-      <point x="96" y="1308" type="line"/>
-      <point x="96" y="1210" type="line"/>
-      <point x="288" y="1210" type="line"/>
-      <point x="288" y="96" type="line"/>
-      <point x="96" y="96" type="line"/>
-      <point x="96" y="0" type="line"/>
-      <point x="608" y="0" type="line"/>
-      <point x="608" y="96" type="line"/>
-      <point x="416" y="96" type="line"/>
-      <point x="416" y="1308" type="line"/>
+      <point x="101" y="1358" type="line"/>
+      <point x="101" y="1260" type="line"/>
+      <point x="293" y="1260" type="line"/>
+      <point x="293" y="96" type="line"/>
+      <point x="101" y="96" type="line"/>
+      <point x="101" y="0" type="line"/>
+      <point x="613" y="0" type="line"/>
+      <point x="613" y="96" type="line"/>
+      <point x="421" y="96" type="line"/>
+      <point x="421" y="1358" type="line"/>
+    </contour>
+    <contour>
+      <point x="355" y="985" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="355" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="685" y="985" type="move" name="topright"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>96</integer>
-	    <key>width</key>
-	    <integer>512</integer>
-	  </dict>
-	</array>
       </dict>
-    <key>com.typemytype.robofont.guides</key>
-      <array>
-      </array>
-    <key>com.typemytype.robofont.layerData</key>
-    <key>b</key>
-    <key>name</key>
-      <string>l</string>
-    <key>lib</key>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>700</integer>
-    <key>contours</key>
-      <array>
-      <key>points</key>
-      <array>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      </array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
     </dict>
   </lib>
 </glyph>

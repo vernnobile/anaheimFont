@@ -4,56 +4,12 @@
   <unicode hex="00E2"/>
   <outline>
     <component base="a"/>
-    <component base="circumflex" xOffset="66.5" yOffset="105"/>
+    <component base="circumflex" xOffset="56.5"/>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-16</integer>
-	    <key>width</key>	    <integer>107</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>-5</integer>
-	    <key>width</key>	    <integer>7</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>473</integer>
-	    <key>width</key>	    <integer>94</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>893</integer>
-	    <key>width</key>	    <integer>107</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1127</integer>
-	    <key>width</key>	    <integer>341</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>122</integer>
-	    <key>width</key>
-	    <integer>120</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>202</integer>
-	    <key>width</key>
-	    <integer>597</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>698</integer>
-	    <key>width</key>
-	    <integer>128</integer>
-	  </dict>
-	</array>
       </dict>
     </dict>
   </lib>

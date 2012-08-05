@@ -33,12 +33,15 @@
       <point x="344" y="153"/>
       <point x="275" y="318"/>
       <point x="251" y="570" type="curve"/>
-      <point x="246" y="763" type="line" smooth="yes"/>
+      <point x="246" y="763" type="line"/>
       <point x="246" y="1029"/>
       <point x="296" y="1249"/>
       <point x="526" y="1256" type="curve"/>
       <point x="772" y="1245"/>
       <point x="804" y="1025"/>
+    </contour>
+    <contour>
+      <point x="20" y="1284" type="move" name="topleft"/>
     </contour>
   </outline>
 </glyph>

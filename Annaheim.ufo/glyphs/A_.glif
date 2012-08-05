@@ -1,45 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="A" format="1">
-  <advance width="1163"/>
+  <advance width="1147"/>
   <unicode hex="0041"/>
   <outline>
     <contour>
-      <point x="936" y="0" type="line"/>
-      <point x="1055" y="0" type="line"/>
-      <point x="673" y="1284" type="line"/>
-      <point x="510" y="1284" type="line"/>
-      <point x="110" y="0" type="line"/>
-      <point x="239" y="0" type="line"/>
-      <point x="339" y="328" type="line"/>
-      <point x="839" y="328" type="line"/>
+      <point x="930" y="0" type="line"/>
+      <point x="1060" y="0" type="line"/>
+      <point x="678" y="1284" type="line"/>
+      <point x="487" y="1284" type="line"/>
+      <point x="87" y="0" type="line"/>
+      <point x="226" y="0" type="line"/>
+      <point x="326" y="328" type="line"/>
+      <point x="833" y="328" type="line"/>
     </contour>
     <contour>
-      <point x="808" y="420" type="line"/>
-      <point x="369" y="420" type="line"/>
-      <point x="592" y="1171" type="line"/>
+      <point x="802" y="420" type="line"/>
+      <point x="356" y="420" type="line"/>
+      <point x="583" y="1174" type="line"/>
+    </contour>
+    <contour>
+      <point x="573" y="1284" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1038" y="10" type="move" name="ogonek"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    <key>b</key>
-    <key>name</key>
-      <string>A</string>
-    <key>lib</key>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>1163</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="b" format="1">
-  <advance width="1011"/>
+  <advance width="1006"/>
   <unicode hex="0062"/>
   <outline>
     <contour>
@@ -19,8 +19,8 @@
       <point x="375" y="92"/>
     </contour>
     <contour>
-      <point x="279" y="1373" type="line"/>
-      <point x="151" y="1373" type="line"/>
+      <point x="279" y="1358" type="line"/>
+      <point x="151" y="1358" type="line"/>
       <point x="151" y="-2" type="line"/>
       <point x="255" y="-10" type="line"/>
       <point x="265" y="50" type="line"/>
@@ -40,25 +40,12 @@
   </outline>
   <lib>
     <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    <key>b</key>
-    <key>name</key>
-      <string>b</string>
-    <key>lib</key>
-    <key>unicodes</key>
+      <key>com.typemytype.robofont.guides</key>
       <array>
       </array>
-    <key>width</key>
-      <integer>1011</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="e" format="1">
-  <advance width="996"/>
+  <advance width="991"/>
   <unicode hex="0065"/>
   <outline>
     <contour>
@@ -38,162 +38,24 @@
       <point x="759" y="783"/>
       <point x="669" y="893"/>
     </contour>
+    <contour>
+      <point x="498" y="985" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="498" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="896" y="10" type="move" name="ogonek"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    <key>b</key>
-    <key>name</key>
-      <string>e</string>
-    <key>lib</key>
-    <key>anchors</key>
+      <key>com.typemytype.robofont.guides</key>
       <array>
       </array>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>1017</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>name</key>
-      <string>o</string>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>996</integer>
-    <key>contours</key>
-      <array>
-      <key>points</key>
-      <array>
-      <key>segmentType</key>
-      <string>curve</string>
-    <key>x</key>
-    <key>smooth</key>
-      <true/>
-    <key>y</key>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>segmentType</key>
-      <string>curve</string>
-    <key>x</key>
-    <key>smooth</key>
-      <true/>
-    <key>y</key>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>segmentType</key>
-      <string>curve</string>
-    <key>x</key>
-    <key>smooth</key>
-      <true/>
-    <key>y</key>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>segmentType</key>
-      <string>curve</string>
-    <key>x</key>
-    <key>smooth</key>
-      <true/>
-    <key>y</key>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      </array>
-      <key>points</key>
-      <array>
-      <key>segmentType</key>
-      <string>curve</string>
-    <key>x</key>
-    <key>smooth</key>
-      <true/>
-    <key>y</key>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>segmentType</key>
-      <string>curve</string>
-    <key>x</key>
-    <key>smooth</key>
-      <true/>
-    <key>y</key>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>segmentType</key>
-      <string>curve</string>
-    <key>x</key>
-    <key>smooth</key>
-      <true/>
-    <key>y</key>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>segmentType</key>
-      <string>curve</string>
-    <key>x</key>
-    <key>smooth</key>
-      <true/>
-    <key>y</key>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      </array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

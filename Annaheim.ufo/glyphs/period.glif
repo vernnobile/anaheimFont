@@ -4,10 +4,17 @@
   <unicode hex="002E"/>
   <outline>
     <contour>
-      <point x="325" y="240" type="line"/>
-      <point x="325" y="0" type="line"/>
-      <point x="126" y="0" type="line"/>
-      <point x="126" y="240" type="line"/>
+      <point x="305" y="210" type="line"/>
+      <point x="305" y="0" type="line"/>
+      <point x="145" y="0" type="line"/>
+      <point x="145" y="210" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

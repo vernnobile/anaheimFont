@@ -1,43 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="V" format="1">
-  <advance width="1100"/>
+  <advance width="1072"/>
   <unicode hex="0056"/>
   <outline>
     <contour>
-      <point x="234" y="1285" type="curve"/>
-      <point x="102" y="1285" type="line"/>
-      <point x="471" y="0" type="line"/>
-      <point x="629" y="0" type="line"/>
-      <point x="998" y="1285" type="line"/>
-      <point x="863" y="1285" type="line"/>
-      <point x="748" y="838"/>
-      <point x="639" y="468"/>
-      <point x="550" y="134" type="curve"/>
-      <point x="461" y="468"/>
-      <point x="349" y="838"/>
+      <point x="220" y="1285" type="curve"/>
+      <point x="88" y="1285" type="line"/>
+      <point x="457" y="0" type="line"/>
+      <point x="615" y="0" type="line"/>
+      <point x="984" y="1285" type="line"/>
+      <point x="849" y="1285" type="line"/>
+      <point x="734" y="838"/>
+      <point x="625" y="468"/>
+      <point x="536" y="134" type="curve"/>
+      <point x="447" y="468"/>
+      <point x="335" y="838"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    <key>b</key>
-    <key>name</key>
-      <string>V</string>
-    <key>lib</key>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>1100</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

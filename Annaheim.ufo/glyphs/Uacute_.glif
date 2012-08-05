@@ -1,43 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uacute" format="1">
-  <advance width="1118"/>
+  <advance width="1119"/>
   <unicode hex="00DA"/>
   <outline>
-    <contour>
-      <point x="561" y="88" type="curve"/>
-      <point x="559" y="90" type="line"/>
-      <point x="375" y="90"/>
-      <point x="283" y="178"/>
-      <point x="275" y="367" type="curve" smooth="yes"/>
-      <point x="268" y="471"/>
-      <point x="264" y="573"/>
-      <point x="264" y="674" type="curve" smooth="yes"/>
-      <point x="264" y="1374" type="line"/>
-      <point x="145" y="1374" type="line"/>
-      <point x="145" y="666" type="line" smooth="yes"/>
-      <point x="145" y="523"/>
-      <point x="144" y="469"/>
-      <point x="157" y="352" type="curve" smooth="yes"/>
-      <point x="185" y="95"/>
-      <point x="294" y="-30"/>
-      <point x="557" y="-30" type="curve" smooth="yes"/>
-      <point x="753" y="-30"/>
-      <point x="883" y="50"/>
-      <point x="930" y="207" type="curve" smooth="yes"/>
-      <point x="959" y="302"/>
-      <point x="973" y="455"/>
-      <point x="973" y="666" type="curve" smooth="yes"/>
-      <point x="973" y="1372" type="line"/>
-      <point x="852" y="1372" type="line"/>
-      <point x="852" y="469" type="line" smooth="yes"/>
-      <point x="852" y="213"/>
-      <point x="774" y="88"/>
-    </contour>
-    <contour>
-      <point x="386" y="1630" type="line"/>
-      <point x="434" y="1561" type="line"/>
-      <point x="784" y="1784" type="line"/>
-      <point x="711" y="1872" type="line"/>
-    </contour>
+    <component base="U"/>
+    <component base="acute" xOffset="271.781" yOffset="299"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

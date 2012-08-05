@@ -1,81 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-    <dict>
-	<key>familyName</key>
-	<string>Annaheim</string>
-	<key>styleName</key>
-	<string>Book</string>
-	<key>copyright</key>
-	<string>Copyright (c) 2010-12 by vernon adams. All rights reserved.</string>
-	<key>trademark</key>
-	<string>Annaheim is a trademark of vernon adams.</string>
-	<key>unitsPerEm</key>
-	<integer>2048</integer>
-	<key>xHeight</key>
-	<integer>985</integer>
-	<key>capHeight</key>
-	<integer>1284</integer>
+<dict>
 	<key>ascender</key>
 	<integer>1308</integer>
+	<key>capHeight</key>
+	<integer>1284</integer>
+	<key>copyright</key>
+	<string>Copyright (c) 2010-12 by vernon adams. All rights reserved.</string>
 	<key>descender</key>
 	<integer>-389</integer>
+	<key>familyName</key>
+	<string>Annaheim Book</string>
 	<key>italicAngle</key>
-	<real>0</real>
+	<real>0.0</real>
+	<key>macintoshFONDName</key>
+	<string>Annaheim</string>
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
-	<string>2012/06/31 06:34:40</string>
+	<string>2012/07/31 11:29:57</string>
+	<key>openTypeHheaAscender</key>
+	<integer>1880</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-465</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>0</integer>
+	<key>openTypeNameCompatibleFullName</key>
+	<string>Annaheim</string>
+	<key>openTypeNameDescription</key>
+	<string>Copyright (c) 2010 by vernon adams. All rights reserved.</string>
 	<key>openTypeNameDesigner</key>
-	<string>vernon adams</string>
-	<key>openTypeNameManufacturer</key>
 	<string>vernon adams</string>
 	<key>openTypeNameLicenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeNameManufacturer</key>
+	<string>vernon adams</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Annaheim</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Book</string>
 	<key>openTypeNameVersion</key>
 	<string>Version 1.000</string>
-	<key>openTypeNameDescription</key>
-	<string>Copyright (c) 2010 by vernon adams. All rights reserved.</string>
-	<key>openTypeNameCompatibleFullName</key>
-	<string>Annaheim</string>
-	<key>openTypeOS2WidthClass</key>
-	<integer>5</integer>
-	<key>openTypeOS2WeightClass</key>
-	<integer>400</integer>
-	<key>openTypeOS2VendorID</key>
-	<string>newt</string>
 	<key>openTypeOS2FamilyClass</key>
 	<array>
 		<integer>8</integer>
 		<integer>0</integer>
 	</array>
-	<key>openTypeOS2TypoAscender</key>
-	<integer>1880</integer>
-	<key>openTypeOS2TypoDescender</key>
-	<integer>-465</integer>
-	<key>openTypeOS2TypoLineGap</key>
-	<integer>0</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>newt</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
 	<integer>1880</integer>
 	<key>openTypeOS2WinDescent</key>
 	<integer>465</integer>
+	<key>postscriptBlueFuzz</key>
+	<integer>1</integer>
+	<key>postscriptBlueScale</key>
+	<real>0.039625000208616257</real>
+	<key>postscriptBlueShift</key>
+	<integer>7</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+	</array>
 	<key>postscriptFontName</key>
 	<string>Annaheim</string>
 	<key>postscriptFullName</key>
 	<string>Annaheim</string>
+	<key>postscriptOtherBlues</key>
+	<array>
+	</array>
 	<key>postscriptWeightName</key>
+	<string>Normal</string>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
 	<string>Book</string>
-	<key>postscriptUnderlineThickness</key>
-	<integer>102</integer>
-	<key>postscriptUnderlinePosition</key>
-	<integer>-307</integer>
-	<key>postscriptBlueFuzz</key>
+	<key>trademark</key>
+	<string>Annaheim is a trademark of vernon adams.</string>
+	<key>unitsPerEm</key>
+	<integer>2048</integer>
+	<key>versionMajor</key>
 	<integer>1</integer>
-	<key>postscriptBlueShift</key>
-	<integer>7</integer>
-	<key>postscriptBlueScale</key>
-	<real>0.039625</real>
-	<key>macintoshFONDName</key>
-	<string>Annaheim</string>
-    </dict>
+	<key>versionMinor</key>
+	<integer>1</integer>
+	<key>xHeight</key>
+	<integer>985</integer>
+</dict>
 </plist>

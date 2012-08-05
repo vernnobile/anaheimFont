@@ -1,42 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="z" format="1">
-  <advance width="861"/>
+  <advance width="847"/>
   <unicode hex="007A"/>
   <outline>
     <contour>
-      <point x="574" y="889" type="line"/>
-      <point x="163" y="889" type="line"/>
-      <point x="163" y="985" type="line"/>
-      <point x="703" y="985" type="line"/>
-      <point x="713" y="900" type="line"/>
-      <point x="271" y="96" type="line"/>
-      <point x="728" y="96" type="line"/>
-      <point x="728" y="0" type="line"/>
-      <point x="144" y="0" type="line"/>
-      <point x="130" y="102" type="line"/>
+      <point x="577" y="889" type="line"/>
+      <point x="144" y="889" type="line"/>
+      <point x="144" y="985" type="line"/>
+      <point x="706" y="985" type="line"/>
+      <point x="716" y="900" type="line"/>
+      <point x="274" y="96" type="line"/>
+      <point x="731" y="96" type="line"/>
+      <point x="731" y="0" type="line"/>
+      <point x="147" y="0" type="line"/>
+      <point x="133" y="102" type="line"/>
+    </contour>
+    <contour>
+      <point x="434" y="985" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    <key>b</key>
-    <key>name</key>
-      <string>z</string>
-    <key>lib</key>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>861</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>
