@@ -2,6 +2,13 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>com.typemytype.robofont.B.layerStrokeColor</key>
+	<array>
+		<real>0.5</real>
+		<real>1.0</real>
+		<real>0.0</real>
+		<real>0.7</real>
+	</array>
 	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.autohint</key>
@@ -16,6 +23,13 @@
 	<string>/Users/vern/GitHub/anaheimFont/Annaheim.ttf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>0</integer>
+	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
+	<array>
+		<real>0.5</real>
+		<real>0.0</real>
+		<real>0.5</real>
+		<real>0.7</real>
+	</array>
 	<key>com.typemytype.robofont.guides</key>
 	<array>
 		<dict>
@@ -28,9 +42,9 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>588</integer>
+			<integer>688</integer>
 			<key>y</key>
-			<integer>1196</integer>
+			<integer>1195</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -44,9 +58,9 @@
 			<key>showMeasurements</key>
 			<integer>1</integer>
 			<key>x</key>
-			<integer>548</integer>
+			<integer>616</integer>
 			<key>y</key>
-			<integer>-16</integer>
+			<integer>-10</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -58,13 +72,28 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>598</integer>
+			<integer>770</integer>
 			<key>y</key>
 			<integer>96</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>588</integer>
+			<key>y</key>
+			<integer>1301</integer>
 		</dict>
 	</array>
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
+		<string>B</string>
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>

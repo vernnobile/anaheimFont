@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="V" format="1">
-  <advance width="1072"/>
+  <advance width="1008"/>
   <unicode hex="0056"/>
   <outline>
     <contour>
-      <point x="220" y="1285" type="curve"/>
-      <point x="88" y="1285" type="line"/>
-      <point x="457" y="0" type="line"/>
-      <point x="615" y="0" type="line"/>
-      <point x="984" y="1285" type="line"/>
-      <point x="849" y="1285" type="line"/>
-      <point x="734" y="838"/>
-      <point x="625" y="468"/>
-      <point x="536" y="134" type="curve"/>
-      <point x="447" y="468"/>
-      <point x="335" y="838"/>
+      <point x="188" y="1285" type="curve"/>
+      <point x="56" y="1285" type="line"/>
+      <point x="425" y="0" type="line"/>
+      <point x="583" y="0" type="line"/>
+      <point x="952" y="1285" type="line"/>
+      <point x="817" y="1285" type="line"/>
+      <point x="702" y="838"/>
+      <point x="593" y="468"/>
+      <point x="504" y="134" type="curve"/>
+      <point x="415" y="468"/>
+      <point x="303" y="838"/>
     </contour>
   </outline>
   <lib>
