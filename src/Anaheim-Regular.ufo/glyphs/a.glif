@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a" format="1">
+  <advance width="953"/>
+  <unicode hex="0061"/>
+  <outline>
+    <contour>
+      <point x="166" y="942" type="line"/>
+      <point x="270" y="976"/>
+      <point x="377" y="1000"/>
+      <point x="474" y="1000" type="curve" smooth="yes"/>
+      <point x="663" y="1000"/>
+      <point x="810" y="902"/>
+      <point x="810" y="617" type="curve" smooth="yes"/>
+      <point x="810" y="0" type="line"/>
+      <point x="718" y="0" type="line"/>
+      <point x="698" y="66" type="line"/>
+      <point x="653" y="30"/>
+      <point x="532" y="-10"/>
+      <point x="425" y="-10" type="curve" smooth="yes"/>
+      <point x="241" y="-10"/>
+      <point x="109" y="85"/>
+      <point x="109" y="284" type="curve" smooth="yes"/>
+      <point x="109" y="429"/>
+      <point x="223" y="567"/>
+      <point x="597" y="567" type="curve" smooth="yes"/>
+      <point x="685" y="567" type="line"/>
+      <point x="685" y="599" type="line" smooth="yes"/>
+      <point x="684" y="831"/>
+      <point x="594" y="895"/>
+      <point x="468" y="895" type="curve" smooth="yes"/>
+      <point x="386" y="895"/>
+      <point x="289" y="868"/>
+      <point x="191" y="843" type="curve"/>
+    </contour>
+    <contour>
+      <point x="229" y="278" type="curve" smooth="yes"/>
+      <point x="229" y="153"/>
+      <point x="305" y="92"/>
+      <point x="445" y="92" type="curve" smooth="yes"/>
+      <point x="533" y="92"/>
+      <point x="630" y="122"/>
+      <point x="685" y="158" type="curve"/>
+      <point x="685" y="473" type="line"/>
+      <point x="629" y="473" type="line" smooth="yes"/>
+      <point x="462" y="473"/>
+      <point x="229" y="455"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>B</key>
+    <key>name</key>
+      <string>a</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>941</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>
