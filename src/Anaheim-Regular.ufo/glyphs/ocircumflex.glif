@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ocircumflex" format="1">
   <advance width="984"/>
-  <unicode hex="00F4"/>
+  <unicode hex="00f4"/>
   <outline>
     <component base="circumflex" xOffset="58" yOffset="141"/>
     <component base="o"/>

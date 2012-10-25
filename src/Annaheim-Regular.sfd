@@ -1,4 +1,4 @@
-SplineFontDB: 3.1
+SplineFontDB: 3.0
 FontName: Anaheim-Regular
 FullName: Anaheim Regular
 FamilyName: Anaheim
@@ -14,14 +14,15 @@ Descent: 410
 UFOAscent: 1308
 UFODescent: -389
 LayerCount: 2
-Layer: 0 0 "Back"  1 0
-Layer: 1 0 "Fore"  0 0
+Layer: 0 0 "Back"  1
+Layer: 1 0 "Fore"  0
+NeedsXUIDChange: 1
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1344552789
-ModificationTime: 1351188857
+ModificationTime: 1351204153
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -45,7 +46,7 @@ Lookup: 4 0 1 "'liga' Standard Ligatures lookup 0"  {"'liga' Standard Ligatures 
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "" "Anaheim Regular" "" "Version 1.000" "" "Anaheim is a trademark of vernon adams." "vernon adams" "vernon adams" "Copyright (c) 2010-12 by vernon adams. All rights reserved." "http://code.newtypography.co.uk" "http://code.newtypography.co.uk" "Copyright (c) 2010-12, vernon adams (vern@newtypography.co.uk),+AAoA-with Reserved Font Name Anaheim.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL" "" "Anaheim" "Regular" "Anaheim" 
+LangName: 1033 "" "" "" "Anaheim Regular" "" "Version 1.000" "" "Anaheim is a trademark of vernon adams." "Vernon Adams" "Vernon Adams" "Copyright (c) 2010-12 by vernon adams. All rights reserved." "http://code.newtypography.co.uk" "http://code.newtypography.co.uk" "Copyright (c) 2010-12, vernon adams (vern@newtypography.co.uk),+AAoA-with Reserved Font Name Anaheim.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL" "" "Anaheim" "Regular" "Anaheim" 
 PickledData: "(dp1
 S'com.typemytype.robofont.compileSettings.autohint'
 p2
@@ -6112,99 +6113,12 @@ EndChar
 
 StartChar: i
 Encoding: 130 105 130
-Width: 677
+Width: 679
 VWidth: 0
 Flags: HW
 PickledData: "(dp1
 ."
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-UndoOperation
-Index: 0
-Type: 7
-WasModified: 1
-WasOrder2: 0
-Width: 678
-EndUndoOperation
-UndoOperation
-Index: 1
-Type: 7
-WasModified: 1
-WasOrder2: 0
-Width: 679
-EndUndoOperation
-UndoOperation
-Index: 2
-Type: 7
-WasModified: 1
-WasOrder2: 0
-Width: 680
-EndUndoOperation
-UndoOperation
-Index: 3
-Type: 7
-WasModified: 1
-WasOrder2: 0
-Width: 681
-EndUndoOperation
-UndoOperation
-Index: 4
-Type: 7
-WasModified: 1
-WasOrder2: 0
-Width: 682
-EndUndoOperation
-UndoOperation
-Index: 5
-Type: 3
-WasModified: 1
-WasOrder2: 0
-EndUndoOperation
-UndoOperation
-Index: 6
-Type: 7
-WasModified: 1
-WasOrder2: 0
-Width: 681
-EndUndoOperation
-UndoOperation
-Index: 7
-Type: 3
-WasModified: 1
-WasOrder2: 0
-EndUndoOperation
-UndoOperation
-Index: 8
-Type: 7
-WasModified: 1
-WasOrder2: 0
-Width: 680
-EndUndoOperation
-UndoOperation
-Index: 9
-Type: 3
-WasModified: 1
-WasOrder2: 0
-EndUndoOperation
-UndoOperation
-Index: 10
-Type: 7
-WasModified: 1
-WasOrder2: 0
-Width: 679
-EndUndoOperation
-UndoOperation
-Index: 11
-Type: 3
-WasModified: 1
-WasOrder2: 0
-EndUndoOperation
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 118 895 m 1
@@ -8068,7 +7982,7 @@ EndChar
 
 StartChar: space
 Encoding: 194 32 194
-Width: 677
+Width: 673
 VWidth: 0
 Flags: HW
 PickledData: "(dp1
@@ -8097,65 +8011,6 @@ p12
 p13
 (tsss."
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-UndoOperation
-Index: 0
-Type: 3
-WasModified: 1
-WasOrder2: 0
-EndUndoOperation
-UndoOperation
-Index: 1
-Type: 7
-WasModified: 1
-WasOrder2: 0
-Width: 679
-EndUndoOperation
-UndoOperation
-Index: 2
-Type: 3
-WasModified: 1
-WasOrder2: 0
-EndUndoOperation
-UndoOperation
-Index: 3
-Type: 7
-WasModified: 1
-WasOrder2: 0
-Width: 677
-EndUndoOperation
-UndoOperation
-Index: 4
-Type: 3
-WasModified: 1
-WasOrder2: 0
-EndUndoOperation
-UndoOperation
-Index: 5
-Type: 7
-WasModified: 1
-WasOrder2: 0
-Width: 675
-EndUndoOperation
-UndoOperation
-Index: 6
-Type: 3
-WasModified: 1
-WasOrder2: 0
-EndUndoOperation
-UndoOperation
-Index: 7
-Type: 7
-WasModified: 0
-WasOrder2: 0
-Width: 673
-EndUndoOperation
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 EndChar
 
 StartChar: sterling
@@ -10653,109 +10508,25 @@ EndChar
 
 StartChar: iogonek
 Encoding: 366 303 366
-Width: 677
+Width: 679
 VWidth: 0
 Flags: HW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-UndoOperation
-Index: 0
-Type: 1
-WasModified: 1
-WasOrder2: 0
-Width: 682
-VWidth: 0
-LBearingChange: 0
-UnicodeEnc: 0
+Fore
 Refer: 362 731 N 1 0 0 1 -192 128 2
 Refer: 130 105 N 1 0 0 1 0 0 3
-InstructionsLength: 0
-EndUndoOperation
-UndoOperation
-Index: 1
-Type: 1
-WasModified: 1
-WasOrder2: 0
-Width: 681
-VWidth: 0
-LBearingChange: 0
-UnicodeEnc: 0
 Refer: 362 731 N 1 0 0 1 -193 128 2
 Refer: 130 105 N 1 0 0 1 0 0 3
-InstructionsLength: 0
-EndUndoOperation
-UndoOperation
-Index: 2
-Type: 1
-WasModified: 1
-WasOrder2: 0
-Width: 680
-VWidth: 0
-LBearingChange: 0
-UnicodeEnc: 0
 Refer: 362 731 N 1 0 0 1 -194 128 2
 Refer: 130 105 N 1 0 0 1 0 0 3
-InstructionsLength: 0
-EndUndoOperation
-UndoOperation
-Index: 3
-Type: 1
-WasModified: 1
-WasOrder2: 0
-Width: 679
-VWidth: 0
-LBearingChange: 0
-UnicodeEnc: 0
 Refer: 362 731 N 1 0 0 1 -195 128 2
 Refer: 130 105 N 1 0 0 1 0 0 3
-InstructionsLength: 0
-EndUndoOperation
-UndoOperation
-Index: 4
-Type: 1
-WasModified: 1
-WasOrder2: 0
-Width: 678
-VWidth: 0
-LBearingChange: 0
-UnicodeEnc: 0
 Refer: 362 731 N 1 0 0 1 -196 128 2
 Refer: 130 105 N 1 0 0 1 0 0 3
-InstructionsLength: 0
-EndUndoOperation
-UndoOperation
-Index: 5
-Type: 1
-WasModified: 1
-WasOrder2: 0
-Width: 677
-VWidth: 0
-LBearingChange: 0
-UnicodeEnc: 0
 Refer: 362 731 N 1 0 0 1 -197 128 2
 Refer: 130 105 N 1 0 0 1 0 0 3
-InstructionsLength: 0
-EndUndoOperation
-UndoOperation
-Index: 6
-Type: 1
-WasModified: 1
-WasOrder2: 0
-Width: 676
-VWidth: 0
-LBearingChange: 0
-UnicodeEnc: 0
 Refer: 362 731 N 1 0 0 1 -198 128 2
 Refer: 130 105 N 1 0 0 1 0 0 3
-InstructionsLength: 0
-EndUndoOperation
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-Fore
 Refer: 362 731 N 1 0 0 1 -191 128 2
 Refer: 130 105 N 1 0 0 1 0 0 3
 EndChar
@@ -12012,7 +11783,7 @@ EndChar
 
 StartChar: uni00A0
 Encoding: 430 160 430
-Width: 442
+Width: 673
 VWidth: 0
 Flags: HW
 LayerCount: 2

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i" format="1">
-  <advance width="677"/>
+  <advance width="679"/>
   <unicode hex="0069"/>
   <outline>
     <contour>
-      <point x="118" y="895" type="line"/>
-      <point x="118" y="985" type="line"/>
-      <point x="438" y="985" type="line"/>
-      <point x="438" y="90" type="line"/>
-      <point x="630" y="90" type="line"/>
-      <point x="630" y="0" type="line"/>
-      <point x="118" y="0" type="line"/>
-      <point x="118" y="90" type="line"/>
-      <point x="310" y="90" type="line"/>
-      <point x="310" y="895" type="line"/>
+      <point x="118" y="895" type="line" smooth="no"/>
+      <point x="118" y="985" type="line" smooth="no"/>
+      <point x="438" y="985" type="line" smooth="no"/>
+      <point x="438" y="90" type="line" smooth="no"/>
+      <point x="630" y="90" type="line" smooth="no"/>
+      <point x="630" y="0" type="line" smooth="no"/>
+      <point x="118" y="0" type="line" smooth="no"/>
+      <point x="118" y="90" type="line" smooth="no"/>
+      <point x="310" y="90" type="line" smooth="no"/>
+      <point x="310" y="895" type="line" smooth="no"/>
     </contour>
     <contour>
       <point x="283" y="1264" type="curve" smooth="yes"/>
@@ -30,8 +30,4 @@
       <point x="283" y="1208"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-    </dict>
-  </lib>
 </glyph>

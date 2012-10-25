@@ -98,9 +98,11 @@ feature kern {
 	\Tbar \tbar \kgreenlandic \gcommaaccent \eng \napostrophe \Eng \uni00B9 \uni00B2 
 	\uni00B3 \onequarter \onehalf \threequarters \minus \uni00A0 ];
 @GDEF_Ligature = [\uniFB01 \uniFB02 \uniFB00 \uniFB03 \uniFB04 ];
+@GDEF_Mark = [];
+@GDEF_Component = [];
 
 table GDEF {
-  GlyphClassDef @GDEF_Simple, @GDEF_Ligature, , ;
+  GlyphClassDef @GDEF_Simple @GDEF_Ligature @GDEF_Mark @GDEF_Component;
 
 } GDEF;
 

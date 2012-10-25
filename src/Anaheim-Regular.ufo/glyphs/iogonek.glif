@@ -1,9 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iogonek" format="1">
-  <advance width="677"/>
-  <unicode hex="012F"/>
+  <advance width="679"/>
+  <unicode hex="012f"/>
   <outline>
+    <component base="ogonek" xOffset="-192" yOffset="128"/>
+    <component base="i"/>
+    <component base="ogonek" xOffset="-193" yOffset="128"/>
+    <component base="i"/>
+    <component base="ogonek" xOffset="-194" yOffset="128"/>
+    <component base="i"/>
+    <component base="ogonek" xOffset="-195" yOffset="128"/>
+    <component base="i"/>
+    <component base="ogonek" xOffset="-196" yOffset="128"/>
+    <component base="i"/>
+    <component base="ogonek" xOffset="-197" yOffset="128"/>
+    <component base="i"/>
+    <component base="ogonek" xOffset="-198" yOffset="128"/>
     <component base="i"/>
     <component base="ogonek" xOffset="-191" yOffset="128"/>
+    <component base="i"/>
   </outline>
 </glyph>

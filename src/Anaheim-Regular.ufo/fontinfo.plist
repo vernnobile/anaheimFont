@@ -27,11 +27,11 @@
 	<key>openTypeHeadCreated</key>
 	<string>2012/07/09 22:53:09</string>
 	<key>openTypeNameDesigner</key>
-	<string>vernon adams</string>
+	<string>Vernon Adams</string>
 	<key>openTypeNameDesignerURL</key>
 	<string>http://code.newtypography.co.uk</string>
 	<key>openTypeNameManufacturer</key>
-	<string>vernon adams</string>
+	<string>Vernon Adams</string>
 	<key>openTypeNameManufacturerURL</key>
 	<string>http://code.newtypography.co.uk</string>
 	<key>openTypeNameLicense</key>
@@ -63,6 +63,25 @@ http://scripts.sil.org/OFL</string>
 	<string>newt</string>
 	<key>openTypeOS2FamilyClass</key>
 	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2Type</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
 		<integer>0</integer>
 		<integer>0</integer>
 	</array>

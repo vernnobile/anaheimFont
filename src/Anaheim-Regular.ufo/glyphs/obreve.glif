@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="obreve" format="1">
   <advance width="984"/>
-  <unicode hex="014F"/>
+  <unicode hex="014f"/>
   <outline>
     <component base="breve" xOffset="58" yOffset="132"/>
     <component base="o"/>

@@ -8,7 +8,10 @@ Anaheim fonts and any derivative works.
 
 Basic Font Information
 
-The Anaheim font family is a free font family. The Anaheim Fonts are designed to be used freely across the internet by web browsers on desktop computers, laptops and mobile devices.
+The Anaheim font family is a free font family. The Anaheim Fonts are designed
+to be used freely across the internet by web browsers on desktop computers,
+laptops and mobile devices.
+
 All source files for the Anaheim Font family are hosted at
 https://github.com/vernnobile/anaheimFont
 
@@ -16,7 +19,6 @@ More specifically, this release supports the following
 Unicode ranges: Latin-1
 
 There are 3 Source files:
-
 
 1. FONT.ufo Original Source Files in UFO format
 
@@ -29,9 +31,11 @@ at vern@newtypography.co.uk
 
 ChangeLog
 
-10/August.2012 - v.1.00 First release of Anaheim Regular
+25 August 2012 - v.1.002 - Fixes to metadata. Removed buggy mark-mark lookups
+that were causing letter spacing errors under Firefox. Minor adjustments to
+lowercase 'g' and uppercase 'W'.
 
-25 August 2012 - v.1.001 - Fixes to metadata. Removed buggy mark-mark lookups that were causing letter spacing errors under Firefox. Minor adjustments to lowercase 'g' and uppercase 'W'.
+10/August.2012 - v.1.01 First release of Anaheim Regular
 
 Acknowledgements
 
@@ -39,7 +43,7 @@ If you make modifications be sure to add your name (N),
 email (E), web-address (if you have one) (W) and 
 description (D). This list is in alphabetical order.
 
-N: DDD
-E: EEE
-W: 
+N: Vernon Adams
+E: vern@newtypography.co.uk
+W: www.newtypography.co.uk
 D: Original Type Designer
