@@ -69,8 +69,6 @@
               </array>
     <key>com.typemytype.robofont.compileSettings.releaseMode</key>
       <integer>0</integer>
-    <key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
-      <integer>1</integer>
     <key>com.typemytype.robofont.layerOrder</key>
       <array>
         <string>B</string>
@@ -814,6 +812,8 @@
       </array>
     <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
       <integer>0</integer>
+    <key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
+      <integer>1</integer>
     <key>com.typesupply.MetricsMachine4.groupColors</key>
     <key>@MMK_L_U_Left</key>
       <array>
@@ -842,7 +842,7 @@
     <key>@MMK_R_o_Right</key>
       <array>
               </array>
-    <key>@MMK_R_y_Left</key>
+    <key>@MMK_R_Y_Right</key>
       <array>
               </array>
     <key>@MMK_L_A_Left</key>
@@ -857,7 +857,7 @@
     <key>@MMK_L_B_Left</key>
       <array>
               </array>
-    <key>@MMK_R_a_Right</key>
+    <key>@MMK_L_k_Left</key>
       <array>
               </array>
     <key>@MMK_R_O_Right</key>
@@ -887,7 +887,7 @@
     <key>@MMK_L_r_Left</key>
       <array>
               </array>
-    <key>@MMK_R_Y_Right</key>
+    <key>@MMK_R_y_Left</key>
       <array>
               </array>
     <key>@MMK_L_Y_Left</key>
@@ -911,7 +911,7 @@
     <key>@MMK_L_H_Left</key>
       <array>
               </array>
-    <key>@MMK_L_k_Left</key>
+    <key>@MMK_R_a_Right</key>
       <array>
               </array>
     <key>@MMK_R_U_Right</key>

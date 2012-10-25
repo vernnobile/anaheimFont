@@ -862,5 +862,7 @@
 	<string>threequarters.glif</string>
 	<key>minus</key>
 	<string>minus.glif</string>
+	<key>uni00A0</key>
+	<string>uni00A_0.glif</string>
     </dict>
 </plist>

@@ -96,7 +96,7 @@ feature kern {
 	\Ygrave \ygrave \eth \Dcroat \dcroat \multiply \uni00AD \brokenbar \ldot \thorn 
 	\Hbar \hbar \currency \Eth \tilde \dotaccent \ring \quotesinglbase \quotedblbase 
 	\Tbar \tbar \kgreenlandic \gcommaaccent \eng \napostrophe \Eng \uni00B9 \uni00B2 
-	\uni00B3 \onequarter \onehalf \threequarters \minus ];
+	\uni00B3 \onequarter \onehalf \threequarters \minus \uni00A0 ];
 @GDEF_Ligature = [\uniFB01 \uniFB02 \uniFB00 \uniFB03 \uniFB04 ];
 
 table GDEF {
