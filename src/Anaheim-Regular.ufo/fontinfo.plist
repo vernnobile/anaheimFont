@@ -28,14 +28,31 @@
 	<string>2012/07/09 22:53:09</string>
 	<key>openTypeNameDesigner</key>
 	<string>vernon adams</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>http://code.newtypography.co.uk</string>
 	<key>openTypeNameManufacturer</key>
 	<string>vernon adams</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://code.newtypography.co.uk</string>
+	<key>openTypeNameLicense</key>
+	<string>Copyright (c) 2010-12, vernon adams (vern@newtypography.co.uk),
+with Reserved Font Name Anaheim.
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL</string>
 	<key>openTypeNameLicenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeNameVersion</key>
 	<string>Version 1.000</string>
+	<key>openTypeNameUniqueID</key>
+	<string>Anaheim Regular</string>
 	<key>openTypeNameDescription</key>
-	<string>Copyright (c) 2010 by vernon adams. All rights reserved.</string>
+	<string>Copyright (c) 2010-12 by vernon adams. All rights reserved.</string>
+	<key>openTypeNamePreferedFamilyName</key>
+	<string>Anaheim</string>
+	<key>openTypeNamePreferedSubfamilyName</key>
+	<string>Regular</string>
 	<key>openTypeNameCompatibleFullName</key>
 	<string>Anaheim</string>
 	<key>openTypeOS2WidthClass</key>
@@ -69,6 +86,22 @@
 	<integer>0</integer>
 	<key>postscriptUnderlinePosition</key>
 	<integer>0</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-10</integer>
+		<integer>0</integer>
+		<integer>985</integer>
+		<integer>1000</integer>
+		<integer>1284</integer>
+		<integer>1308</integer>
+		<integer>1358</integer>
+		<integer>1377</integer>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-390</integer>
+		<integer>-340</integer>
+	</array>
 	<key>postscriptBlueFuzz</key>
 	<integer>1</integer>
 	<key>postscriptBlueShift</key>
