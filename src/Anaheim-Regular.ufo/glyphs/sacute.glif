@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sacute" format="1">
   <advance width="838"/>
-  <unicode hex="015b"/>
+  <unicode hex="015B"/>
   <outline>
     <component base="acute" xOffset="262" yOffset="190"/>
     <component base="s"/>

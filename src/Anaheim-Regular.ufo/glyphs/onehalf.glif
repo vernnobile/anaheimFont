@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onehalf" format="1">
   <advance width="1686"/>
-  <unicode hex="00bd"/>
+  <unicode hex="00BD"/>
   <outline>
     <component base="fraction" xOffset="386" yOffset="-114"/>
     <component base="uni00B2" xOffset="956" yOffset="-279"/>

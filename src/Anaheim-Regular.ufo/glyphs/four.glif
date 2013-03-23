@@ -4,21 +4,21 @@
   <unicode hex="0034"/>
   <outline>
     <contour>
-      <point x="608" y="0" type="line" smooth="no"/>
-      <point x="608" y="260" type="line" smooth="no"/>
-      <point x="64" y="260" type="line" smooth="no"/>
-      <point x="64" y="356" type="line" smooth="no"/>
-      <point x="411" y="1284" type="line" smooth="no"/>
-      <point x="536" y="1284" type="line" smooth="no"/>
-      <point x="201" y="360" type="line" smooth="no"/>
-      <point x="608" y="360" type="line" smooth="no"/>
-      <point x="608" y="797" type="line" smooth="no"/>
-      <point x="736" y="797" type="line" smooth="no"/>
-      <point x="736" y="360" type="line" smooth="no"/>
-      <point x="896" y="360" type="line" smooth="no"/>
-      <point x="896" y="260" type="line" smooth="no"/>
-      <point x="736" y="260" type="line" smooth="no"/>
-      <point x="736" y="0" type="line" smooth="no"/>
+      <point x="608" y="0" type="line"/>
+      <point x="608" y="260" type="line"/>
+      <point x="64" y="260" type="line"/>
+      <point x="64" y="356" type="line"/>
+      <point x="411" y="1284" type="line"/>
+      <point x="536" y="1284" type="line"/>
+      <point x="201" y="360" type="line"/>
+      <point x="608" y="360" type="line"/>
+      <point x="608" y="797" type="line"/>
+      <point x="736" y="797" type="line"/>
+      <point x="736" y="360" type="line"/>
+      <point x="896" y="360" type="line"/>
+      <point x="896" y="260" type="line"/>
+      <point x="736" y="260" type="line"/>
+      <point x="736" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

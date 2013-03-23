@@ -1,4 +1,8 @@
 
+languagesystem DFLT dflt;
+languagesystem grek dflt;
+languagesystem latn dflt;
+
 # GSUB 
 
 
@@ -13,15 +17,15 @@ lookup ligaStandardLigatureslookup0 {
 
 feature liga {
 
-  script DFLT;
+ script DFLT;
      language dflt ;
       lookup ligaStandardLigatureslookup0;
 
-  script grek;
+ script grek;
      language dflt ;
       lookup ligaStandardLigatureslookup0;
 
-  script latn;
+ script latn;
      language dflt ;
       lookup ligaStandardLigatureslookup0;
 } liga;
@@ -43,7 +47,7 @@ lookup kernHorizontalKerninginLatinloo {
 
 feature kern {
 
-  script latn;
+ script latn;
      language dflt ;
       lookup kernHorizontalKerninginLatinloo;
 } kern;
@@ -98,11 +102,9 @@ feature kern {
 	\Tbar \tbar \kgreenlandic \gcommaaccent \eng \napostrophe \Eng \uni00B9 \uni00B2 
 	\uni00B3 \onequarter \onehalf \threequarters \minus \uni00A0 ];
 @GDEF_Ligature = [\uniFB01 \uniFB02 \uniFB00 \uniFB03 \uniFB04 ];
-@GDEF_Mark = [];
-@GDEF_Component = [];
 
 table GDEF {
-  GlyphClassDef @GDEF_Simple @GDEF_Ligature @GDEF_Mark @GDEF_Component;
+  GlyphClassDef @GDEF_Simple, @GDEF_Ligature, , ;
 
 } GDEF;
 
